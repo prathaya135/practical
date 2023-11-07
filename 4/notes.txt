@@ -1,0 +1,10 @@
+elbow method = sum squared error 
+here the centrroid distance is calculated using eucleadian distance 
+unsupervised learning does not has taget variable 
+fit predict
+km.inertia_  = sse 
+
+
+silhouette analysis = how close the point with respect to near cluster
+[-1,1]
+
